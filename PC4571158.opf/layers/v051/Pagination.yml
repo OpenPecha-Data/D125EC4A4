@@ -1043,13 +1043,13 @@ annotations:
     reference: ''
     span:
       start: 199145
-      end: 200479
+      end: 200481
     note_ref: d7ce41b39ad04514896847039bca32d5
   652ce7d82a8248baa10dac5bb58e2839:
     imgnum: 1065
     reference: ''
     span:
-      start: 200481
+      start: 200483
       end: 201793
     note_ref: d7ce41b39ad04514896847039bca32d5
   c3897a0d1c1d4c7395c58f21fe4b491a:
